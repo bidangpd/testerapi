@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Yellow-billed stork","category":"Yellow"},
+{"id":2,"name":"Griffon vulture","category":"Crimson"},
+{"id":3,"name":"Turkey, australian brush","category":"Aquamarine"},
+{"id":4,"name":"Koala","category":"Khaki"},
+{"id":5,"name":"Jackal, black-backed","category":"Mauv"},
+{"id":6,"name":"Cockatoo, sulfur-crested","category":"Indigo"},
+{"id":7,"name":"Cape white-eye","category":"Goldenrod"},
+{"id":8,"name":"Cobra, cape","category":"Orange"},
+{"id":9,"name":"American woodcock","category":"Khaki"},
+{"id":10,"name":"Peccary, collared","category":"Crimson"},
+{"id":11,"name":"Skink, african","category":"Red"},
+{"id":12,"name":"Puffin, horned","category":"Green"},
+{"id":13,"name":"Bent-toed gecko","category":"Khaki"},
+{"id":14,"name":"Least chipmunk","category":"Goldenrod"},
+{"id":15,"name":"Egret, great","category":"Purple"},
+{"id":16,"name":"Kingfisher, pied","category":"Blue"},
+{"id":17,"name":"Long-tailed spotted cat","category":"Maroon"},
+{"id":18,"name":"Golden eagle","category":"Violet"},
+{"id":19,"name":"Black-tailed deer","category":"Teal"},
+{"id":20,"name":"Cormorant, neotropic","category":"Violet"}]
+]
+}
